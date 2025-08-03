@@ -24,7 +24,7 @@ A modern, beautiful React application that allows you to search for GitHub users
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/komalshukla2005/Github-User-Finder.git>
 cd github-user-finder
 ```
 
